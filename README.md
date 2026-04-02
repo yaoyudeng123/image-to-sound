@@ -11,7 +11,7 @@ Convert text in an image to speech using **Microsoft Azure Cognitive Services**.
 ## Run
 ```bash
 pip install azure-cognitiveservices-vision-computervision azure-cognitiveservices-speech msrest
-python image-to-sound.py
+python app.py
 ```
 
 Ensure `image.jpg` is in the same directory.
