@@ -5,7 +5,6 @@ Convert text in an image to speech using **Microsoft Azure Cognitive Services**.
 ## Features
 - OCR with Azure Computer Vision (Read API)
 - Text-to-Speech with Azure Speech SDK
-- No Google dependencies
 - Uses relative paths
 
 ## Run
